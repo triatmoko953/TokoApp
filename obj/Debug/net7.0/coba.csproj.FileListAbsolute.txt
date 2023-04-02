@@ -1,0 +1,15 @@
+C:\Users\Rapidtech\bootcamp\latihan\coba\bin\Debug\net7.0\coba.exe
+C:\Users\Rapidtech\bootcamp\latihan\coba\bin\Debug\net7.0\coba.deps.json
+C:\Users\Rapidtech\bootcamp\latihan\coba\bin\Debug\net7.0\coba.runtimeconfig.json
+C:\Users\Rapidtech\bootcamp\latihan\coba\bin\Debug\net7.0\coba.dll
+C:\Users\Rapidtech\bootcamp\latihan\coba\bin\Debug\net7.0\coba.pdb
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.csproj.AssemblyReference.cache
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.AssemblyInfoInputs.cache
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.AssemblyInfo.cs
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.csproj.CoreCompileInputs.cache
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.dll
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\refint\coba.dll
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.pdb
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\coba.genruntimeconfig.cache
+C:\Users\Rapidtech\bootcamp\latihan\coba\obj\Debug\net7.0\ref\coba.dll
